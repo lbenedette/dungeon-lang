@@ -1,0 +1,8 @@
+.idea/
+gen/
+out/
+examples/
+tests/
+*.txt
+*.jar
+*.pptx
